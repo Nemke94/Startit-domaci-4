@@ -1,0 +1,28 @@
+body {
+	font-family: 'Neucha', cursive;
+	margin: auto;
+	width: 50%;
+}
+#sweatshirt {
+	float: right;
+	margin-top: 0px;
+}
+p{
+	padding: 15px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+footer {
+	text-align: right;
+}
